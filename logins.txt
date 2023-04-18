@@ -1,0 +1,222 @@
+
+
+DNI: 11111111111 
+USER: 111111111111111  
+SENHA: 1111
+
+
+
+DNI: 11111111111 
+USER: 111111111111111111  
+SENHA: 1111
+
+
+
+DNI: 45454545 
+USER: 45454  
+SENHA: 4545
+
+
+
+DNI: 98251632 
+USER: gugu171  
+SENHA: 1425
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI: 39555852 
+USER: chupalaputo  
+SENHA: put
+
+
+
+DNI: 1231312312 
+USER: 1111  
+SENHA: 1111
+
+
+
+DNI: 0000 
+USER: 00000  
+SENHA: 0000
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI: 65656565656 
+USER: teste1011  
+SENHA: 1122
+
+
+
+DNI: 123456789 
+USER: ABCD1234  
+SENHA: 1234
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI: 1 
+USER: 1  
+SENHA: 1
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI: 244242 
+USER: 24242  
+SENHA: 2242
+
+
+
+DNI: 3 
+USER: 3  
+SENHA: 3
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
+
+
+DNI: 3 
+USER: 3  
+SENHA: 3
+
+
+
+DNI:  
+USER:   
+SENHA: 
+
